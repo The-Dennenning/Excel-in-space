@@ -1,0 +1,73 @@
+<inventory>
+<items>
+<type=Material>
+<name=Shale>
+<quantity>
+ 68 
+</quantity>
+</name=Shale>
+<name=Andesite>
+<quantity>
+ 1 
+</quantity>
+</name=Andesite>
+<name=Whiteschist>
+<quantity>
+ 1 
+</quantity>
+</name=Whiteschist>
+<name=Lamprophyre>
+<quantity>
+ 2 
+</quantity>
+</name=Lamprophyre>
+<name=Metapelite>
+<quantity>
+ 5 
+</quantity>
+</name=Metapelite>
+<name=Calcarenite>
+<quantity>
+ 18 
+</quantity>
+</name=Calcarenite>
+<name=Hornfels>
+<quantity>
+ 7 
+</quantity>
+</name=Hornfels>
+<name=Lignite>
+<quantity>
+ 92 
+</quantity>
+</name=Lignite>
+<name=Teacups>
+<quantity>
+</quantity>
+</name=Teacups>
+</type=Material>
+<type=Object>
+<name=Teacups>
+<quantity>
+ 10 
+</quantity>
+</name=Teacups>
+<name=Saucer>
+<quantity>
+ 10 
+</quantity>
+</name=Saucer>
+<name=Dinner Plate>
+<quantity>
+ 10 
+</quantity>
+</name=Dinner Plate>
+</type=Object>
+</items>
+<mode>
+ 1 
+</mode>
+</inventory>
+clear
+</mode>
+</game>

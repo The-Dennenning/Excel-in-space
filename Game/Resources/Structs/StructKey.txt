@@ -1,0 +1,5 @@
+0 - Blank Cell (color index = -4142)
+1 - Black Cell (color index = 1)
+- - Not Part of Struct
+N - Node
+C - Character

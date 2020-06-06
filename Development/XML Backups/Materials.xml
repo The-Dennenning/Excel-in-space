@@ -1,0 +1,3447 @@
+<materials>
+<m5>
+<color>
+<b>
+ 250 
+</b>
+<g>
+ 180 
+</g>
+<r>
+ 180 
+</r>
+</color>
+<desc>
+An alloy of superior strength and unknown origin.
+</desc>
+<name>
+Xenosteel
+</name>
+</m5>
+<m4>
+<color>
+<b>
+ 220 
+</b>
+<g>
+ 200 
+</g>
+<r>
+ 200 
+</r>
+</color>
+<desc>
+An expensive, luxurious metal.
+</desc>
+<name>
+Platinum
+</name>
+</m4>
+<m3>
+<color>
+<b>
+ 150 
+</b>
+<g>
+ 120 
+</g>
+<r>
+ 120 
+</r>
+</color>
+<desc>
+Iron forged with additional carbon.
+</desc>
+<name>
+Steel
+</name>
+</m3>
+<m2>
+<color>
+<b>
+ 90 
+</b>
+<g>
+ 90 
+</g>
+<r>
+ 100 
+</r>
+</color>
+<desc>
+Standard Iron.
+</desc>
+<name>
+Iron
+</name>
+</m2>
+<m1>
+<color>
+<b>
+ 50 
+</b>
+<g>
+ 125 
+</g>
+<r>
+ 150 
+</r>
+</color>
+<desc>
+An alloy of tin and copper.
+</desc>
+<name>
+Bronze
+</name>
+</m1>
+<r134>
+<type>
+m
+</type>
+<rarity>
+V
+</rarity>
+<color>
+<g>
+ 193 
+</g>
+<b>
+ 193 
+</b>
+<r>
+ 177 
+</r>
+</color>
+<desc>
+a high pressure metamorphic rock containing talc and kyanite
+</desc>
+<name>
+Whiteschist
+</name>
+</r134>
+<r133>
+<type>
+m
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 155 
+</g>
+<b>
+ 155 
+</b>
+<r>
+ 170 
+</r>
+</color>
+<desc>
+essentially a talc schist
+</desc>
+<name>
+Soapstone
+</name>
+</r133>
+<r132>
+<type>
+m
+</type>
+<rarity>
+V
+</rarity>
+<color>
+<g>
+ 67 
+</g>
+<b>
+ 67 
+</b>
+<r>
+ 178 
+</r>
+</color>
+<desc>
+a metamorphosed ultramafic rock with talc as an essential constituent; similar to a serpentinite
+</desc>
+<name>
+Talc carbonate
+</name>
+</r132>
+<r131>
+<type>
+m
+</type>
+<rarity>
+IV
+</rarity>
+<color>
+<g>
+ 157 
+</g>
+<b>
+ 157 
+</b>
+<r>
+ 180 
+</r>
+</color>
+<desc>
+a rock formed by partial melting during a meteorite impact
+</desc>
+<name>
+Suevite
+</name>
+</r131>
+<r130>
+<type>
+m
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 187 
+</g>
+<b>
+ 187 
+</b>
+<r>
+ 182 
+</r>
+</color>
+<desc>
+a low grade metamorphic rock formed from shale or silts
+</desc>
+<name>
+Slate
+</name>
+</r130>
+<r129>
+<type>
+m
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 66 
+</g>
+<b>
+ 66 
+</b>
+<r>
+ 141 
+</r>
+</color>
+<desc>
+a metasomatic rock
+</desc>
+<name>
+Skarn
+</name>
+</r129>
+<r128>
+<type>
+m
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 149 
+</g>
+<b>
+ 149 
+</b>
+<r>
+ 150 
+</r>
+</color>
+<desc>
+a metamorphosed ultramafic rock dominated by serpentine minerals
+</desc>
+<name>
+Serpentinite
+</name>
+</r128>
+<r127>
+<type>
+m
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 148 
+</g>
+<b>
+ 148 
+</b>
+<r>
+ 176 
+</r>
+</color>
+<desc>
+a low to medium grade metamorphic rock
+</desc>
+<name>
+Schist
+</name>
+</r127>
+<r126>
+<type>
+m
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 176 
+</g>
+<b>
+ 176 
+</b>
+<r>
+ 182 
+</r>
+</color>
+<desc>
+a metamorphosed sandstone typically composed of >95% quartz
+</desc>
+<name>
+Quartzite
+</name>
+</r126>
+<r125>
+<type>
+m
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 163 
+</g>
+<b>
+ 163 
+</b>
+<r>
+ 174 
+</r>
+</color>
+<desc>
+a glass formed by melting within a fault via friction
+</desc>
+<name>
+Pseudotachylite
+</name>
+</r125>
+<r124>
+<type>
+m
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 105 
+</g>
+<b>
+ 105 
+</b>
+<r>
+ 154 
+</r>
+</color>
+<desc>
+a low grade metamorphic rock composed mostly of micaceous minerals
+</desc>
+<name>
+Phyllite
+</name>
+</r124>
+<r123>
+<type>
+m
+</type>
+<rarity>
+V
+</rarity>
+<color>
+<g>
+ 117 
+</g>
+<b>
+ 117 
+</b>
+<r>
+ 181 
+</r>
+</color>
+<desc>
+a metamorphic rock with a protolith of quartz-rich (sandstone) sedimentary rock
+</desc>
+<name>
+Metapsammite
+</name>
+</r123>
+<r122>
+<type>
+m
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 76 
+</g>
+<b>
+ 76 
+</b>
+<r>
+ 176 
+</r>
+</color>
+<desc>
+a metamorphic rock with a protolith of clay-rich (siltstone) sedimentary rock
+</desc>
+<name>
+Metapelite
+</name>
+</r122>
+<r121>
+<type>
+m
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 90 
+</g>
+<b>
+ 90 
+</b>
+<r>
+ 175 
+</r>
+</color>
+<desc>
+a metamorphic rock formed by shearing
+</desc>
+<name>
+Mylonite
+</name>
+</r121>
+<r120>
+<type>
+m
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 124 
+</g>
+<b>
+ 124 
+</b>
+<r>
+ 179 
+</r>
+</color>
+<desc>
+a high grade metamorphic rock verging upon melting into a magma
+</desc>
+<name>
+Migmatite
+</name>
+</r120>
+<r119>
+<type>
+m
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 171 
+</g>
+<b>
+ 171 
+</b>
+<r>
+ 178 
+</r>
+</color>
+<desc>
+a metamorphosed limestone
+</desc>
+<name>
+Marble
+</name>
+</r119>
+<r118>
+<type>
+m
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 99 
+</g>
+<b>
+ 99 
+</b>
+<r>
+ 182 
+</r>
+</color>
+<desc>
+nepheline syenite gneiss
+</desc>
+<name>
+Litchfieldite
+</name>
+</r118>
+<r117>
+<type>
+m
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 140 
+</g>
+<b>
+ 140 
+</b>
+<r>
+ 158 
+</r>
+</color>
+<desc>
+a metamorphic rock formed by heating by an igneous rock
+</desc>
+<name>
+Hornfels
+</name>
+</r117>
+<r116>
+<type>
+m
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 121 
+</g>
+<b>
+ 121 
+</b>
+<r>
+ 153 
+</r>
+</color>
+<desc>
+a mafic metamorphic rock dominated by green amphiboles
+</desc>
+<name>
+Greenschist
+</name>
+</r116>
+<r115>
+<type>
+m
+</type>
+<rarity>
+III
+</rarity>
+<color>
+<g>
+ 161 
+</g>
+<b>
+ 161 
+</b>
+<r>
+ 131 
+</r>
+</color>
+<desc>
+a high grade metamorphic rock formed from basalt; also a facies of metamorphic rocks
+</desc>
+<name>
+Granulite
+</name>
+</r115>
+<r114>
+<type>
+m
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 146 
+</g>
+<b>
+ 146 
+</b>
+<r>
+ 128 
+</r>
+</color>
+<desc>
+a high grade coarse grained metamorphic rock with light and dark alternating bands
+</desc>
+<name>
+Gneiss
+</name>
+</r114>
+<r113>
+<type>
+m
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 193 
+</g>
+<b>
+ 193 
+</b>
+<r>
+ 174 
+</r>
+</color>
+<desc>
+an ultra-high grade metamorphosed basalt or gabbro; also a facies of metamorphic rocks
+</desc>
+<name>
+Eclogite
+</name>
+</r113>
+<r112>
+<type>
+m
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 126 
+</g>
+<b>
+ 126 
+</b>
+<r>
+ 131 
+</r>
+</color>
+<desc>
+a rock formed by faulting
+</desc>
+<name>
+Cataclasite
+</name>
+</r112>
+<r111>
+<type>
+m
+</type>
+<rarity>
+V
+</rarity>
+<color>
+<g>
+ 86 
+</g>
+<b>
+ 86 
+</b>
+<r>
+ 148 
+</r>
+</color>
+<desc>
+a metamorphic rock composed of sodic amphiboles with a distinct blue color
+</desc>
+<name>
+Blueschist
+</name>
+</r111>
+<r110>
+<type>
+m
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 100 
+</g>
+<b>
+ 100 
+</b>
+<r>
+ 134 
+</r>
+</color>
+<desc>
+a metamorphic rock composed primarily of amphibole
+</desc>
+<name>
+Amphibolite
+</name>
+</r110>
+<r109>
+<type>
+m
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 67 
+</g>
+<b>
+ 67 
+</b>
+<r>
+ 143 
+</r>
+</color>
+<desc>
+metamorphosed coal, between 92% - 98% organic matter
+</desc>
+<name>
+Anthracite
+</name>
+</r109>
+<r108>
+<type>
+s
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 124 
+</g>
+<b>
+ 124 
+</b>
+<r>
+ 152 
+</r>
+</color>
+<desc>
+matrix-supported carbonate sedimentary rock.
+</desc>
+<name>
+Wackestone
+</name>
+</r108>
+<r107>
+<type>
+s
+</type>
+<rarity>
+V
+</rarity>
+<color>
+<g>
+ 140 
+</g>
+<b>
+ 140 
+</b>
+<r>
+ 155 
+</r>
+</color>
+<desc>
+particular sequence of sedimentary rocks which form within the deep ocean environment
+</desc>
+<name>
+Turbidite
+</name>
+</r107>
+<r106>
+<type>
+s
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 74 
+</g>
+<b>
+ 74 
+</b>
+<r>
+ 182 
+</r>
+</color>
+<desc>
+porous limestone formed by the precipitation of carbonate minerals from ambient temperature water bodies
+</desc>
+<name>
+Tufa
+</name>
+</r106>
+<r105>
+<type>
+s
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 180 
+</g>
+<b>
+ 180 
+</b>
+<r>
+ 188 
+</r>
+</color>
+<desc>
+sedimentary rock containing calcite and iron oxides
+</desc>
+<name>
+Travertine
+</name>
+</r105>
+<r104>
+<type>
+s
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 191 
+</g>
+<b>
+ 191 
+</b>
+<r>
+ 169 
+</r>
+</color>
+<desc>
+lithified glacial till
+</desc>
+<name>
+Tillite
+</name>
+</r104>
+<r103>
+<type>
+s
+</type>
+<rarity>
+IV
+</rarity>
+<color>
+<g>
+ 67 
+</g>
+<b>
+ 67 
+</b>
+<r>
+ 146 
+</r>
+</color>
+<desc>
+clastic sedimentary rock defined by 50% or greater silt-sized particles
+</desc>
+<name>
+Siltstone
+</name>
+</r103>
+<r102>
+<type>
+s
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 117 
+</g>
+<b>
+ 117 
+</b>
+<r>
+ 176 
+</r>
+</color>
+<desc>
+clastic, fissile sedimentary rock defined by clay-sized particles
+</desc>
+<name>
+Shale
+</name>
+</r102>
+<r101>
+<type>
+s
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 88 
+</g>
+<b>
+ 88 
+</b>
+<r>
+ 145 
+</r>
+</color>
+<desc>
+clastic sedimentary rock defined by its grain size (0.0625 mm to 2 mm)
+</desc>
+<name>
+Sandstone
+</name>
+</r101>
+<r100>
+<type>
+s
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 144 
+</g>
+<b>
+ 144 
+</b>
+<r>
+ 144 
+</r>
+</color>
+<desc>
+chemical sedimentary limestone formed from ooids, spherical grains composed of concentric layers
+</desc>
+<name>
+Oolite
+</name>
+</r100>
+<r99>
+<type>
+s
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 70 
+</g>
+<b>
+ 70 
+</b>
+<r>
+ 157 
+</r>
+</color>
+<desc>
+sedimentary rock composed dominantly of organic material
+</desc>
+<name>
+Oil shale
+</name>
+</r99>
+<r98>
+<type>
+s
+</type>
+<rarity>
+III
+</rarity>
+<color>
+<g>
+ 154 
+</g>
+<b>
+ 154 
+</b>
+<r>
+ 171 
+</r>
+</color>
+<desc>
+clastic sedimentary rock that contains a mixture of silt- and clay-sized particles
+</desc>
+<name>
+Mudstone
+</name>
+</r98>
+<r97>
+<type>
+s
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 128 
+</g>
+<b>
+ 128 
+</b>
+<r>
+ 196 
+</r>
+</color>
+<desc>
+limestone with a considerable proportion of silicate material
+</desc>
+<name>
+Marl
+</name>
+</r97>
+<r96>
+<type>
+s
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 102 
+</g>
+<b>
+ 102 
+</b>
+<r>
+ 139 
+</r>
+</color>
+<desc>
+composed primarily of carbonate minerals
+</desc>
+<name>
+Limestone
+</name>
+</r96>
+<r95>
+<type>
+s
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 87 
+</g>
+<b>
+ 87 
+</b>
+<r>
+ 157 
+</r>
+</color>
+<desc>
+sedimentary rock composed of 60%- 70% organic material; otherwise known as brown coal
+</desc>
+<name>
+Lignite
+</name>
+</r95>
+<r94>
+<type>
+s
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 121 
+</g>
+<b>
+ 121 
+</b>
+<r>
+ 146 
+</r>
+</color>
+<desc>
+residual sedimentary rock formed from a parent rock under tropical conditions
+</desc>
+<name>
+Laterite
+</name>
+</r94>
+<r93>
+<type>
+s
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 107 
+</g>
+<b>
+ 107 
+</b>
+<r>
+ 167 
+</r>
+</color>
+<desc>
+an iron-rich chemical sedimentary rock similar to chert or banded iron formation
+</desc>
+<name>
+Jaspillite
+</name>
+</r93>
+<r92>
+<type>
+s
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 113 
+</g>
+<b>
+ 113 
+</b>
+<r>
+ 183 
+</r>
+</color>
+<desc>
+porous, yellow-orange sandstone which is flexible if cut into thin strips
+</desc>
+<name>
+Itacolumite
+</name>
+</r92>
+<r91>
+<type>
+s
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 180 
+</g>
+<b>
+ 180 
+</b>
+<r>
+ 164 
+</r>
+</color>
+<desc>
+essentially a coarse sandstone formed from small pebbles
+</desc>
+<name>
+Gritstone
+</name>
+</r91>
+<r90>
+<type>
+s
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 99 
+</g>
+<b>
+ 99 
+</b>
+<r>
+ 194 
+</r>
+</color>
+<desc>
+a type of sandstone with quartz, feldspar and rock fragments within a clay matrix
+</desc>
+<name>
+Greywacke
+</name>
+</r90>
+<r89>
+<type>
+s
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 168 
+</g>
+<b>
+ 168 
+</b>
+<r>
+ 163 
+</r>
+</color>
+<desc>
+opaline silica deposit formed around hot springs and geysers
+</desc>
+<name>
+Geyserite
+</name>
+</r89>
+<r88>
+<type>
+s
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 181 
+</g>
+<b>
+ 181 
+</b>
+<r>
+ 186 
+</r>
+</color>
+<desc>
+a form of chert
+</desc>
+<name>
+Flint
+</name>
+</r88>
+<r87>
+<type>
+s
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 182 
+</g>
+<b>
+ 182 
+</b>
+<r>
+ 165 
+</r>
+</color>
+<desc>
+chemical sedimentary rock formed by accumulation of minerals after evaporation; varieties include rock salt (halitite) and rock gypsum
+</desc>
+<name>
+Evaporite
+</name>
+</r87>
+<r86>
+<type>
+s
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 172 
+</g>
+<b>
+ 172 
+</b>
+<r>
+ 175 
+</r>
+</color>
+<desc>
+a carbonate rock composed of the mineral dolomite +/- calcite
+</desc>
+<name>
+Dolomite or dolostone
+</name>
+</r86>
+<r85>
+<type>
+s
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 160 
+</g>
+<b>
+ 160 
+</b>
+<r>
+ 165 
+</r>
+</color>
+<desc>
+sedimentary rock formed from diatom fossils
+</desc>
+<name>
+Diatomite
+</name>
+</r85>
+<r84>
+<type>
+s
+</type>
+<rarity>
+V
+</rarity>
+<color>
+<g>
+ 143 
+</g>
+<b>
+ 143 
+</b>
+<r>
+ 188 
+</r>
+</color>
+<desc>
+a lithified sedimentary deposit with a wide range of grain sizes
+</desc>
+<name>
+Diamictite
+</name>
+</r84>
+<r83>
+<type>
+s
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 156 
+</g>
+<b>
+ 156 
+</b>
+<r>
+ 136 
+</r>
+</color>
+<desc>
+a sedimentary carbonate rock formed by accumulation of abundant shell fossils and fragments
+</desc>
+<name>
+Coquina
+</name>
+</r83>
+<r82>
+<type>
+s
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 71 
+</g>
+<b>
+ 71 
+</b>
+<r>
+ 135 
+</r>
+</color>
+<desc>
+a sedimentary rock composed of large rounded fragments of other rocks
+</desc>
+<name>
+Conglomerate
+</name>
+</r82>
+<r81>
+<type>
+s
+</type>
+<rarity>
+IV
+</rarity>
+<color>
+<g>
+ 123 
+</g>
+<b>
+ 123 
+</b>
+<r>
+ 144 
+</r>
+</color>
+<desc>
+a sedimentary rock formed from organic matter
+</desc>
+<name>
+Coal
+</name>
+</r81>
+<r80>
+<type>
+s
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 167 
+</g>
+<b>
+ 167 
+</b>
+<r>
+ 169 
+</r>
+</color>
+<desc>
+a sedimentary rock formed from clay
+</desc>
+<name>
+Claystone
+</name>
+</r80>
+<r79>
+<type>
+s
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 148 
+</g>
+<b>
+ 148 
+</b>
+<r>
+ 129 
+</r>
+</color>
+<desc>
+a fine-grained chemical sedimentary rock composed of silica
+</desc>
+<name>
+Chert
+</name>
+</r79>
+<r78>
+<type>
+s
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 121 
+</g>
+<b>
+ 121 
+</b>
+<r>
+ 177 
+</r>
+</color>
+<desc>
+a sedimentary rock composed primarily of coccolith fossils
+</desc>
+<name>
+Chalk
+</name>
+</r78>
+<r77>
+<type>
+s
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 138 
+</g>
+<b>
+ 138 
+</b>
+<r>
+ 190 
+</r>
+</color>
+<desc>
+a sedimentary rock composed of > 50% detrital carbonate grains
+</desc>
+<name>
+Calcarenite
+</name>
+</r77>
+<r76>
+<type>
+s
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 79 
+</g>
+<b>
+ 79 
+</b>
+<r>
+ 168 
+</r>
+</color>
+<desc>
+a sedimentary or tectonic rock composed of fragments of other, broken rocks
+</desc>
+<name>
+Breccia
+</name>
+</r76>
+<r75>
+<type>
+s
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 121 
+</g>
+<b>
+ 121 
+</b>
+<r>
+ 149 
+</r>
+</color>
+<desc>
+a fine-grained chemical sedimentary rock composed of iron oxide minerals
+</desc>
+<name>
+Banded iron formation
+</name>
+</r75>
+<r74>
+<type>
+s
+</type>
+<rarity>
+III
+</rarity>
+<color>
+<g>
+ 70 
+</g>
+<b>
+ 70 
+</b>
+<r>
+ 184 
+</r>
+</color>
+<desc>
+a sandstone with <25% feldspar crystals
+</desc>
+<name>
+Arkose
+</name>
+</r74>
+<r73>
+<type>
+s
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 147 
+</g>
+<b>
+ 147 
+</b>
+<r>
+ 129 
+</r>
+</color>
+<desc>
+a sedimentary rock composed primarily of clay-sized particles
+</desc>
+<name>
+Argillite
+</name>
+</r73>
+<r72>
+<type>
+i
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 187 
+</g>
+<b>
+ 187 
+</b>
+<r>
+ 154 
+</r>
+</color>
+<desc>
+an ultramafic plutonic or cumulate rock, a type of peridotite, composed of olivine and clinopyroxene
+</desc>
+<name>
+Wehrlite
+</name>
+</r72>
+<r71>
+<type>
+i
+</type>
+<rarity>
+III
+</rarity>
+<color>
+<g>
+ 133 
+</g>
+<b>
+ 133 
+</b>
+<r>
+ 151 
+</r>
+</color>
+<desc>
+a type of pyroxenite, composed of clinoproxene and orthopyroxene
+</desc>
+<name>
+Websterite
+</name>
+</r71>
+<r70>
+<type>
+i
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 138 
+</g>
+<b>
+ 138 
+</b>
+<r>
+ 144 
+</r>
+</color>
+<desc>
+a fine-grained volcanic rock formed from volcanic ash
+</desc>
+<name>
+Tuff
+</name>
+</r70>
+<r69>
+<type>
+i
+</type>
+<rarity>
+III
+</rarity>
+<color>
+<g>
+ 96 
+</g>
+<b>
+ 96 
+</b>
+<r>
+ 187 
+</r>
+</color>
+<desc>
+a form of tonalite where plagioclase-group feldspar is oligoclase
+</desc>
+<name>
+Trondhjemite
+</name>
+</r69>
+<r68>
+<type>
+i
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 119 
+</g>
+<b>
+ 119 
+</b>
+<r>
+ 193 
+</r>
+</color>
+<desc>
+a plutonic ultramafic rock containing olivine, pyroxene and plagioclase
+</desc>
+<name>
+Troctolite
+</name>
+</r68>
+<r67>
+<type>
+i
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 67 
+</g>
+<b>
+ 67 
+</b>
+<r>
+ 154 
+</r>
+</color>
+<desc>
+a silica-undersaturated volcanic rock; essentially a feldspathoid-bearing rhyolite
+</desc>
+<name>
+Trachyte
+</name>
+</r67>
+<r66>
+<type>
+i
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 87 
+</g>
+<b>
+ 87 
+</b>
+<r>
+ 194 
+</r>
+</color>
+<desc>
+potassic basaltic trachyandesite
+</desc>
+<name>
+Shoshonite
+</name>
+</r66>
+<r65>
+<type>
+i
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 151 
+</g>
+<b>
+ 151 
+</b>
+<r>
+ 141 
+</r>
+</color>
+<desc>
+sodic basaltic trachyandesite
+</desc>
+<name>
+Mugearite
+</name>
+</r65>
+<r64>
+<type>
+i
+</type>
+<rarity>
+I
+</rarity>
+<color>
+<g>
+ 191 
+</g>
+<b>
+ 191 
+</b>
+<r>
+ 147 
+</r>
+</color>
+<desc>
+an alkaline intermediate volcanic rock
+</desc>
+<name>
+Trachyandesite
+</name>
+</r64>
+<r63>
+<type>
+i
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 120 
+</g>
+<b>
+ 120 
+</b>
+<r>
+ 135 
+</r>
+</color>
+<desc>
+a plagioclase-dominant granitoid
+</desc>
+<name>
+Tonalite
+</name>
+</r63>
+<r62>
+<type>
+i
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 137 
+</g>
+<b>
+ 137 
+</b>
+<r>
+ 187 
+</r>
+</color>
+<desc>
+a silica-undersaturated volcanic rock
+</desc>
+<name>
+Tephrite
+</name>
+</r62>
+<r61>
+<type>
+i
+</type>
+<rarity>
+IV
+</rarity>
+<color>
+<g>
+ 134 
+</g>
+<b>
+ 134 
+</b>
+<r>
+ 143 
+</r>
+</color>
+<desc>
+essentially a basaltic glass
+</desc>
+<name>
+Tachylyte
+</name>
+</r61>
+<r60>
+<type>
+i
+</type>
+<rarity>
+IV
+</rarity>
+<color>
+<g>
+ 195 
+</g>
+<b>
+ 195 
+</b>
+<r>
+ 132 
+</r>
+</color>
+<desc>
+a plutonic rock dominated by orthoclase feldspar; a type of granitoid
+</desc>
+<name>
+Syenite
+</name>
+</r60>
+<r59>
+<type>
+i
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 115 
+</g>
+<b>
+ 115 
+</b>
+<r>
+ 165 
+</r>
+</color>
+<desc>
+a coarse-grained carbonatite rock
+</desc>
+<name>
+Sovite
+</name>
+</r59>
+<r58>
+<type>
+i
+</type>
+<rarity>
+III
+</rarity>
+<color>
+<g>
+ 147 
+</g>
+<b>
+ 147 
+</b>
+<r>
+ 155 
+</r>
+</color>
+<desc>
+an extremely vesicular mafic volcanic rock
+</desc>
+<name>
+Scoria
+</name>
+</r58>
+<r57>
+<type>
+i
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 139 
+</g>
+<b>
+ 139 
+</b>
+<r>
+ 184 
+</r>
+</color>
+<desc>
+an alkaline rhyolite-rhyodacite with amphibole phenocrysts
+</desc>
+<name>
+Pantellerite
+</name>
+</r57>
+<r56>
+<type>
+i
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 103 
+</g>
+<b>
+ 103 
+</b>
+<r>
+ 132 
+</r>
+</color>
+<desc>
+a peralkaline rhyolite
+</desc>
+<name>
+Comendite
+</name>
+</r56>
+<r55>
+<type>
+i
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 141 
+</g>
+<b>
+ 141 
+</b>
+<r>
+ 157 
+</r>
+</color>
+<desc>
+a felsic volcanic rock
+</desc>
+<name>
+Rhyolite
+</name>
+</r55>
+<r54>
+<type>
+i
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 73 
+</g>
+<b>
+ 73 
+</b>
+<r>
+ 191 
+</r>
+</color>
+<desc>
+a felsic volcanic rock which is intermediate between a rhyolite and a dacite
+</desc>
+<name>
+Rhyodacite
+</name>
+</r54>
+<r53>
+<type>
+i
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 175 
+</g>
+<b>
+ 175 
+</b>
+<r>
+ 193 
+</r>
+</color>
+<desc>
+an intrusive rock composed mostly of quartz
+</desc>
+<name>
+Quartzolite
+</name>
+</r53>
+<r52>
+<type>
+i
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 180 
+</g>
+<b>
+ 180 
+</b>
+<r>
+ 136 
+</r>
+</color>
+<desc>
+an intermediate plutonic rock, essentially a monzonite with 5-10% modal quartz
+</desc>
+<name>
+Quartz monzonite
+</name>
+</r52>
+<r51>
+<type>
+i
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 165 
+</g>
+<b>
+ 165 
+</b>
+<r>
+ 169 
+</r>
+</color>
+<desc>
+a diorite with >5% modal quartz
+</desc>
+<name>
+Quartz diorite
+</name>
+</r51>
+<r50>
+<type>
+i
+</type>
+<rarity>
+III
+</rarity>
+<color>
+<g>
+ 96 
+</g>
+<b>
+ 96 
+</b>
+<r>
+ 150 
+</r>
+</color>
+<desc>
+a coarse grained plutonic rock composed of >90% pyroxene
+</desc>
+<name>
+Pyroxenite
+</name>
+</r50>
+<r49>
+<type>
+i
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 84 
+</g>
+<b>
+ 84 
+</b>
+<r>
+ 133 
+</r>
+</color>
+<desc>
+a fine grained, vesicular volcanic rock
+</desc>
+<name>
+Pumice
+</name>
+</r49>
+<r48>
+<type>
+i
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 74 
+</g>
+<b>
+ 74 
+</b>
+<r>
+ 155 
+</r>
+</color>
+<desc>
+a rock, usually granitic, with a porphyritic texture
+</desc>
+<name>
+Porphyry
+</name>
+</r48>
+<r47>
+<type>
+i
+</type>
+<rarity>
+III
+</rarity>
+<color>
+<g>
+ 169 
+</g>
+<b>
+ 169 
+</b>
+<r>
+ 161 
+</r>
+</color>
+<desc>
+an olivine-bearing basalt
+</desc>
+<name>
+Picrite
+</name>
+</r47>
+<r46>
+<type>
+i
+</type>
+<rarity>
+IV
+</rarity>
+<color>
+<g>
+ 195 
+</g>
+<b>
+ 195 
+</b>
+<r>
+ 140 
+</r>
+</color>
+<desc>
+a silica-undersaturated volcanic rock; essentially similar to nepheline syenite
+</desc>
+<name>
+Phonolite
+</name>
+</r46>
+<r45>
+<type>
+i
+</type>
+<rarity>
+IV
+</rarity>
+<color>
+<g>
+ 88 
+</g>
+<b>
+ 88 
+</b>
+<r>
+ 154 
+</r>
+</color>
+<desc>
+a plutonic or cumulate ultramafic rock composed of olivine and pyroxene
+</desc>
+<name>
+Peridotite
+</name>
+</r45>
+<r44>
+<type>
+i
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 103 
+</g>
+<b>
+ 103 
+</b>
+<r>
+ 142 
+</r>
+</color>
+<desc>
+an igneous rock (or metamorphic) rock with crystals >1 inch, usually granitic
+</desc>
+<name>
+Pegmatite
+</name>
+</r44>
+<r43>
+<type>
+i
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 99 
+</g>
+<b>
+ 99 
+</b>
+<r>
+ 130 
+</r>
+</color>
+<desc>
+a type of volcanic glass
+</desc>
+<name>
+Obsidian
+</name>
+</r43>
+<r42>
+<type>
+i
+</type>
+<rarity>
+V
+</rarity>
+<color>
+<g>
+ 64 
+</g>
+<b>
+ 64 
+</b>
+<r>
+ 172 
+</r>
+</color>
+<desc>
+a hypersthene-bearing gabbro
+</desc>
+<name>
+Norite
+</name>
+</r42>
+<r41>
+<type>
+i
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 82 
+</g>
+<b>
+ 82 
+</b>
+<r>
+ 188 
+</r>
+</color>
+<desc>
+a silica-undersaturated plutonic rock with >90% nepheline
+</desc>
+<name>
+Nephelinite
+</name>
+</r41>
+<r40>
+<type>
+i
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 87 
+</g>
+<b>
+ 87 
+</b>
+<r>
+ 139 
+</r>
+</color>
+<desc>
+a silica-undersaturated plutonic rock of nepheline and alkali feldspar
+</desc>
+<name>
+Nepheline syenite
+</name>
+</r40>
+<r39>
+<type>
+i
+</type>
+<rarity>
+V
+</rarity>
+<color>
+<g>
+ 176 
+</g>
+<b>
+ 176 
+</b>
+<r>
+ 152 
+</r>
+</color>
+<desc>
+a plutonic rock with <5% normative quartz
+</desc>
+<name>
+Monzonite
+</name>
+</r39>
+<r38>
+<type>
+i
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 195 
+</g>
+<b>
+ 195 
+</b>
+<r>
+ 147 
+</r>
+</color>
+<desc>
+a silica-undersaturated granite with <5% normative quartz
+</desc>
+<name>
+Monzogranite
+</name>
+</r38>
+<r37>
+<type>
+i
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 132 
+</g>
+<b>
+ 132 
+</b>
+<r>
+ 149 
+</r>
+</color>
+<desc>
+an ultramafic rock, essentially a peridotite
+</desc>
+<name>
+Lherzolite
+</name>
+</r37>
+<r36>
+<type>
+i
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 152 
+</g>
+<b>
+ 152 
+</b>
+<r>
+ 163 
+</r>
+</color>
+<desc>
+a silica-undersaturated form of andesite
+</desc>
+<name>
+Latite
+</name>
+</r36>
+<r35>
+<type>
+i
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 114 
+</g>
+<b>
+ 114 
+</b>
+<r>
+ 153 
+</r>
+</color>
+<desc>
+an ultramafic, ultrapotassic intrusive rock dominated by mafic phenocrysts in a feldspar groundmass
+</desc>
+<name>
+Lamprophyre
+</name>
+</r35>
+<r34>
+<type>
+i
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 129 
+</g>
+<b>
+ 129 
+</b>
+<r>
+ 192 
+</r>
+</color>
+<desc>
+an ultrapotassic volcanic rock
+</desc>
+<name>
+Lamproite
+</name>
+</r34>
+<r33>
+<type>
+i
+</type>
+<rarity>
+II
+</rarity>
+<color>
+<g>
+ 107 
+</g>
+<b>
+ 107 
+</b>
+<r>
+ 169 
+</r>
+</color>
+<desc>
+an ultramafic volcanic rock with very high magnesium content
+</desc>
+<name>
+Komatiite
+</name>
+</r33>
+<r32>
+<type>
+i
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 185 
+</g>
+<b>
+ 185 
+</b>
+<r>
+ 137 
+</r>
+</color>
+<desc>
+a rare ultramafic, ultrapotassic volcanic rock and a source of diamonds
+</desc>
+<name>
+Kimberlite
+</name>
+</r32>
+<r31>
+<type>
+i
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 91 
+</g>
+<b>
+ 91 
+</b>
+<r>
+ 169 
+</r>
+</color>
+<desc>
+a very rare silica-undersaturated plutonic rock
+</desc>
+<name>
+Ijolite
+</name>
+</r31>
+<r30>
+<type>
+i
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 97 
+</g>
+<b>
+ 97 
+</b>
+<r>
+ 177 
+</r>
+</color>
+<desc>
+a fragmental volcanic rock
+</desc>
+<name>
+Ignimbrite
+</name>
+</r30>
+<r29>
+<type>
+i
+</type>
+<rarity>
+IV
+</rarity>
+<color>
+<g>
+ 187 
+</g>
+<b>
+ 187 
+</b>
+<r>
+ 167 
+</r>
+</color>
+<desc>
+an iron-rich, aluminium-poor andesite
+</desc>
+<name>
+Icelandite
+</name>
+</r29>
+<r28>
+<type>
+i
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 162 
+</g>
+<b>
+ 162 
+</b>
+<r>
+ 136 
+</r>
+</color>
+<desc>
+a volcanic rock composed primarily of glasses and glassy tuff
+</desc>
+<name>
+Hyaloclastite
+</name>
+</r28>
+<r27>
+<type>
+i
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 88 
+</g>
+<b>
+ 88 
+</b>
+<r>
+ 143 
+</r>
+</color>
+<desc>
+a mafic or ultramafic cumulate rock dominated by >90% hornblende
+</desc>
+<name>
+Hornblendite
+</name>
+</r27>
+<r26>
+<type>
+i
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 149 
+</g>
+<b>
+ 149 
+</b>
+<r>
+ 193 
+</r>
+</color>
+<desc>
+a variety of peridotite; an ultramafic cumulate rock
+</desc>
+<name>
+Harzburgite
+</name>
+</r26>
+<r25>
+<type>
+i
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 138 
+</g>
+<b>
+ 138 
+</b>
+<r>
+ 180 
+</r>
+</color>
+<desc>
+a subvolcanic intrusive rock of granitic composition
+</desc>
+<name>
+Granophyre
+</name>
+</r25>
+<r24>
+<type>
+i
+</type>
+<rarity>
+IV
+</rarity>
+<color>
+<g>
+ 128 
+</g>
+<b>
+ 128 
+</b>
+<r>
+ 185 
+</r>
+</color>
+<desc>
+a granitic plutonic rock with more plagioclase than orthoclase
+</desc>
+<name>
+Granodiorite
+</name>
+</r24>
+<r23>
+<type>
+i
+</type>
+<rarity>
+III
+</rarity>
+<color>
+<g>
+ 168 
+</g>
+<b>
+ 168 
+</b>
+<r>
+ 140 
+</r>
+</color>
+<desc>
+a coarse-grained plutonic rock composed of orthoclase, plagioclase and quartz
+</desc>
+<name>
+Granite
+</name>
+</r23>
+<r22>
+<type>
+i
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 139 
+</g>
+<b>
+ 139 
+</b>
+<r>
+ 179 
+</r>
+</color>
+<desc>
+a coarse-grained plutonic rock composed of pyroxene and plagioclase basically equivalent to basalt
+</desc>
+<name>
+Gabbro
+</name>
+</r22>
+<r21>
+<type>
+i
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 175 
+</g>
+<b>
+ 175 
+</b>
+<r>
+ 164 
+</r>
+</color>
+<desc>
+a plutonic igneous rock composed of >90% feldspathoid minerals
+</desc>
+<name>
+Foidolite
+</name>
+</r21>
+<r20>
+<type>
+i
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 86 
+</g>
+<b>
+ 86 
+</b>
+<r>
+ 191 
+</r>
+</color>
+<desc>
+a silica-undersaturated mafic plutonic rock (essentially a feldspathoid-bearing gabbro)
+</desc>
+<name>
+Essexite
+</name>
+</r20>
+<r19>
+<type>
+i
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 82 
+</g>
+<b>
+ 82 
+</b>
+<r>
+ 163 
+</r>
+</color>
+<desc>
+a phaneritic ultramafic rock composed of more than 90% olivine
+</desc>
+<name>
+Dunite
+</name>
+</r19>
+<r18>
+<type>
+i
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 88 
+</g>
+<b>
+ 88 
+</b>
+<r>
+ 160 
+</r>
+</color>
+<desc>
+a variety of diorite which is characterized by orbicular structure. Also called corsite.
+</desc>
+<name>
+Napoleonite
+</name>
+</r18>
+<r17>
+<type>
+i
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 183 
+</g>
+<b>
+ 183 
+</b>
+<r>
+ 148 
+</r>
+</color>
+<desc>
+a coarse-grained intermediate plutonic rock composed of plagioclase, pyroxene and/or amphibole
+</desc>
+<name>
+Diorite
+</name>
+</r17>
+<r16>
+<type>
+i
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 77 
+</g>
+<b>
+ 77 
+</b>
+<r>
+ 139 
+</r>
+</color>
+<desc>
+an intrusive mafic rock forming dykes or sills
+</desc>
+<name>
+Diabase
+</name>
+</r16>
+<r15>
+<type>
+i
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 169 
+</g>
+<b>
+ 169 
+</b>
+<r>
+ 187 
+</r>
+</color>
+<desc>
+a felsic to intermediate volcanic rock containing hornblende and with more plagioclase than orthoclase
+</desc>
+<name>
+Dacite
+</name>
+</r15>
+<r14>
+<type>
+i
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 153 
+</g>
+<b>
+ 153 
+</b>
+<r>
+ 186 
+</r>
+</color>
+<desc>
+a variety of charnockite
+</desc>
+<name>
+Enderbite
+</name>
+</r14>
+<r13>
+<type>
+i
+</type>
+<rarity>
+II
+</rarity>
+<color>
+<g>
+ 174 
+</g>
+<b>
+ 174 
+</b>
+<r>
+ 179 
+</r>
+</color>
+<desc>
+a type of granite containing orthopyroxene
+</desc>
+<name>
+Charnockite
+</name>
+</r13>
+<r12>
+<type>
+i
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 91 
+</g>
+<b>
+ 91 
+</b>
+<r>
+ 177 
+</r>
+</color>
+<desc>
+a rare igneous rock composed of >50% carbonate minerals
+</desc>
+<name>
+Carbonatite
+</name>
+</r12>
+<r11>
+<type>
+i
+</type>
+<rarity>
+IV
+</rarity>
+<color>
+<g>
+ 134 
+</g>
+<b>
+ 134 
+</b>
+<r>
+ 164 
+</r>
+</color>
+<desc>
+a magnesium-rich basalt dominated by pyroxene
+</desc>
+<name>
+Boninite
+</name>
+</r11>
+<r10>
+<type>
+i
+</type>
+<rarity>
+V
+</rarity>
+<color>
+<g>
+ 110 
+</g>
+<b>
+ 110 
+</b>
+<r>
+ 146 
+</r>
+</color>
+<desc>
+a rare volcanic rock
+</desc>
+<name>
+Blairmorite
+</name>
+</r10>
+<r9>
+<type>
+i
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 117 
+</g>
+<b>
+ 117 
+</b>
+<r>
+ 134 
+</r>
+</color>
+<desc>
+a volcanic rock of mafic composition; essentially a silica-undersaturated basalt
+</desc>
+<name>
+Basanite
+</name>
+</r9>
+<r8>
+<type>
+i
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 157 
+</g>
+<b>
+ 157 
+</b>
+<r>
+ 166 
+</r>
+</color>
+<desc>
+a type of basalt, typically formed by ocean island (hot spot) volcanism
+</desc>
+<name>
+Hawaiite
+</name>
+</r8>
+<r7>
+<type>
+i
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 87 
+</g>
+<b>
+ 87 
+</b>
+<r>
+ 156 
+</r>
+</color>
+<desc>
+basaltic lava with a flowing, often ropy appearance
+</desc>
+<name>
+Pahoehoe
+</name>
+</r7>
+<r6>
+<type>
+i
+</type>
+<rarity>
+III
+</rarity>
+<color>
+<g>
+ 191 
+</g>
+<b>
+ 191 
+</b>
+<r>
+ 150 
+</r>
+</color>
+<desc>
+a volcanic rock of mafic composition
+</desc>
+<name>
+Basalt
+</name>
+</r6>
+<r5>
+<type>
+i
+</type>
+<rarity>
+VII
+</rarity>
+<color>
+<g>
+ 151 
+</g>
+<b>
+ 151 
+</b>
+<r>
+ 171 
+</r>
+</color>
+<desc>
+a very fine-grained intrusive igneous rock composed of quartz and feldspar, similar composition to granite but with grains <1mm
+</desc>
+<name>
+Aplite
+</name>
+</r5>
+<r4>
+<type>
+i
+</type>
+<rarity>
+II
+</rarity>
+<color>
+<g>
+ 166 
+</g>
+<b>
+ 166 
+</b>
+<r>
+ 174 
+</r>
+</color>
+<desc>
+a mafic intrusive igneous rock composed predominantly of plagioclase
+</desc>
+<name>
+Anorthosite
+</name>
+</r4>
+<r3>
+<type>
+i
+</type>
+<rarity>
+III
+</rarity>
+<color>
+<g>
+ 160 
+</g>
+<b>
+ 160 
+</b>
+<r>
+ 149 
+</r>
+</color>
+<desc>
+a granitoid in which at least 90% of the total feldspar is in the form of alkali feldspar
+</desc>
+<name>
+Alkali feldspar granite
+</name>
+</r3>
+<r2>
+<type>
+i
+</type>
+<rarity>
+VI
+</rarity>
+<color>
+<g>
+ 102 
+</g>
+<b>
+ 102 
+</b>
+<r>
+ 159 
+</r>
+</color>
+<desc>
+an intermediate volcanic rock
+</desc>
+<name>
+Andesite
+</name>
+</r2>
+<r1>
+<type>
+i
+</type>
+<rarity>
+II
+</rarity>
+<color>
+<g>
+ 166 
+</g>
+<b>
+ 166 
+</b>
+<r>
+ 169 
+</r>
+</color>
+<desc>
+a class of intermediate to felsic rocks containing low amounts of yttrium and ytterbium
+</desc>
+<name>
+Adakite
+</name>
+</r1>
+</materials>
