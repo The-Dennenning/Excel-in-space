@@ -2,8 +2,8 @@
 Excel In Space: An RPG Adventure Game built in Microsoft Excel for fun
 
 
-# What Exists Currently
-Excel In Space as it currently exists features:
+# What Existed Before
+Excel In Space as it existed as an archived project features:
 
     * Basic XML Reading / Writing Schema
     * Basic Cross Workbook Functionality
@@ -11,23 +11,23 @@ Excel In Space as it currently exists features:
     * Star System Generation / Traversal in ship
     * Inventory System
 
+# What has happened since
+
+    * Upgraded Data Schema
+        * There exists a new data schema, as follows:
+            * Intrabook data – uses Data_Module / Data_Sheet paradigm
+                * This data will be kept in workbook
+                * This data will be organized into columns of blocks, as follows:
+                    * Each column has a name, a block size, and a number of blocks
+                    * Each block contains <block size> number of key:value pairs
+                    * A piece of data can be looked up given the name of the column, the name of the block, and the key.
+            * Interbook data – uses XML_Module / XML_Sheet paradigm
+                * This data will be kept in source code
+                * This data will be organized as xml files that multiple workbooks read and write from
+                    * Certainly this will cause race conditions somewhere, but I am... blissfully ignorant of this for now.
 
 # To Do
 I would like to formalize and expand these systems:
-
-    * XML Reading / Writing Schema
-        * Refactor and make more efficient
-
-    * Cross Workbook Functionality
-        * Establish 'Menu' Workbook to navigate between:
-            * Body
-            * Subtle Body
-            * Brain
-            * Compactor
-        * 'Body' in this case would be either:
-            * On Ship
-            * On Planet
-        * Remove any navigation to Character / Compactor from Bridge / planetWorkbook
 
     * Character System
         * This system will be like a mech-building mechanic, where you build out your robot body with all sorts of parts that affect all aspects of your adventuring. 
