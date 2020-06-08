@@ -1,5 +1,47 @@
 <inventory>
 <items>
+<type=Material>
+<name=Shale>
+<quantity>
+ 68 
+</quantity>
+</name=Shale>
+<name=Andesite>
+<quantity>
+ 1 
+</quantity>
+</name=Andesite>
+<name=Whiteschist>
+<quantity>
+ 1 
+</quantity>
+</name=Whiteschist>
+<name=Lamprophyre>
+<quantity>
+ 2 
+</quantity>
+</name=Lamprophyre>
+<name=Metapelite>
+<quantity>
+ 5 
+</quantity>
+</name=Metapelite>
+<name=Calcarenite>
+<quantity>
+ 18 
+</quantity>
+</name=Calcarenite>
+<name=Hornfels>
+<quantity>
+ 7 
+</quantity>
+</name=Hornfels>
+<name=Lignite>
+<quantity>
+ 92 
+</quantity>
+</name=Lignite>
+</type=Material>
 <type=10>
 <name=Teacups>
 <quantity>
